@@ -1,0 +1,5 @@
+# Label mapping
+id2label = {
+    "0": "Real_Image",
+    "1": "Flux.1_Generated"
+}
